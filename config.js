@@ -12,10 +12,10 @@ module.exports = {
     NEWSLETTER_MESSAGE_ID: '428',
     OTP_EXPIRY: 300000,
     NEWS_JSON_URL: '',
-    BOT_NAME: 'Queen SHALA MD',
-    OWNER_NAME: 'Nethmika',
+    BOT_NAME: 'ZORO MD MINI BOT',
+    OWNER_NAME: 'SADEE',
     OWNER_NUMBER: '94704227534',
     BOT_VERSION: '1.0.0',
-    BOT_FOOTER: '> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ Qᴜᴇᴇɴ-ꜱʜᴀʟᴀ-ᴍᴅ',
+    BOT_FOOTER: '> © 𝗣𝗢𝗪𝗘𝗥𝗗 𝗕𝗬 𝗭𝗢𝗥𝗢 𝗠𝗗 𝗠𝗜𝗡𝗜 𝗕𝗢𝗧 ',
     CHANNEL_LINK: 'https://whatsapp.com/channel/0029Vb1WkmNJP2121yQf143q'
 };
